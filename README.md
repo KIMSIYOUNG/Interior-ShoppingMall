@@ -10,7 +10,7 @@
 - 프로젝트 구조
 
 <div>
-<img width="1000" alt="bit-structure" src="https://user-images.githubusercontent.com/49060374/69938605-1a71ef80-1521-11ea-91c1-2c7333a5d90e.png">
+<img width="500" alt="bit-structure" src="https://user-images.githubusercontent.com/49060374/69938605-1a71ef80-1521-11ea-91c1-2c7333a5d90e.png">
 </div>
 
 
